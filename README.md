@@ -30,14 +30,14 @@ The analysis covers in-store locations across **Maryland**, **Massachusetts**, *
 ## Report Pages
 
 ### Page 1 - Sales Overview
-- **Line Chart:** Sales trend over the full 2022-2025 period (in-store + online combined)
-- **Column Chart:** Sales performance by product category, sorted by revenue
+- **Line Chart:** Sales trend over the full 2022-2025 period, comparing in-store vs online sales
+- **Donut Chart:** Sales distribution by State
 - **Slicer:** Interactive filter by year
 
 ---
 
-### Page 2 - Regional & Product Insights 
-- **Pie/Donut Chart:** Relative sales by state (Maryland, Massachusetts, Maine & New Jersey - in-store and online)
+### Page 2 - Sales by Category
+- **Column Chart:** Sales performance by Product category, sorted by revenue
 - **Table:** Top-selling general-audience books with author names (textbooks excluded)
 
 ---
